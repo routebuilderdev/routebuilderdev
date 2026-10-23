@@ -8,4 +8,4 @@ I ship production apps and document every decision.
 
 **Open source:** contributor to DefiLlama Adapters and Meshtastic (python + web).
 
-**Reach me:** routebuilderdev@gmail.com · routebuilder.developer.li · LinkedIn
+**Reach me:** routebuilderdev@gmail.com · routebuilder.developer.li · https://www.linkedin.com/in/route-builder/

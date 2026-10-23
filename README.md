@@ -6,6 +6,6 @@ I ship production apps and document every decision.
 
 **Selected work:** No Scratch Nav · ShootLight (offline-first PWA for photographers) · Italian Residence RAG Agent (Python, ChromaDB, cited answers).
 
-**Open source:** contributor to DefiLlama Adapters and Meshtastic (python + web).
+**Open source:** contributor to DefiLlama Adapters.
 
-**Reach me:** routebuilderdev@gmail.com · routebuilder.developer.li · https://www.linkedin.com/in/route-builder/
+**Reach me:** routebuilderdev@gmail.com · https://routebuilder.developer.li/ · https://www.linkedin.com/in/route-builder/
